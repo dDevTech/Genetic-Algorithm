@@ -1,0 +1,5 @@
+package core;
+
+public enum CROSSOVER_METHOD {
+	PROPORTIONAL, UNIFORM, MEAN , MEAN_PROPORTIONAL
+}
